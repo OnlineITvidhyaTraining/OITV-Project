@@ -1,0 +1,5 @@
+2020-09-19 08:38:12,985 INFO  [LoginbyLog4j] browser open succ 
+2020-09-19 08:38:18,781 INFO  [LoginbyLog4j] page nvigated succ 
+2020-09-19 08:38:19,121 INFO  [LoginbyLog4j] Username inserted succ 
+2020-09-19 08:38:19,368 INFO  [LoginbyLog4j] password inserted succ 
+2020-09-19 08:38:26,006 INFO  [LoginbyLog4j] Succ login completed 
